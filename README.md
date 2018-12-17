@@ -1,4 +1,6 @@
 # Shape optimization for convex shapes
+[![DOI](https://zenodo.org/badge/162102892.svg)](https://zenodo.org/badge/latestdoi/162102892)
+
 This software solves shape optimization problems with PDE constraints and convexity constraints in two spatial dimensions.
 The algorithm is explained in detail in the preprint https://arxiv.org/abs/1810.10735.
 
